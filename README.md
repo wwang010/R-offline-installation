@@ -1,5 +1,5 @@
 # R-offline-installation
-## This repo contains the R script to install packages (with dependency) from a local folder  (https://github.com/wwang010/R-offline-installation)
+## This repo contains an R script to install R packages (with dependencies) from a local folder  (https://github.com/wwang010/R-offline-installation)
 ## By wwang010, May 2022
 
 ## Step-by-step guide:
